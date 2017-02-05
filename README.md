@@ -1,4 +1,7 @@
 # welcome to my blog
-## [OI](/oi.md)
+
+## [OI](/OI.md)
+
 ## [日志](/日志.md)
+
 ## [鸣谢](/鸣谢.md)
